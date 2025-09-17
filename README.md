@@ -28,7 +28,7 @@ An online library system built with React that allows users to browse books by c
 ## How to Run the Application
 
  ### Run following command to run application
-  - git clone https://github.com/PrajapatiVikrant/Online_Library_System.git
+  - git clone https://github.com/hrithikkeshri/onlinelibrary.git
   - cd Online_Library_System
   - npm install
   - npm run dev (this command give you localhost link where application will be run)
